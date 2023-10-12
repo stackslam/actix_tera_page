@@ -1,5 +1,7 @@
 # actix_tera_page
 
+## [Read the Docs](https://docs.rs/actix_tera_page/latest/actix_tera_page/)
+
 This crate provides a middleware for `actix_web` that reduces the boilerplate needed to
 create SSR websites with `Tera`. It matches GET request paths to templates and renders them
 using a shared "base context". An example use case would be populating a website navbar
